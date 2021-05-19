@@ -20,7 +20,7 @@ const Home = () => {
         </Col>
       </Row>
       <Row>
-        <Media.Body className="text-white">
+        <Media.Body className="text-dark">
           <h2>About Me</h2>
           <p className="flow-text">
           I am currently a student at University of Central Florida, studying to become a Full Stack Programmer. While my background in coding is minimal I hope to have a long and purposeful career. My interest in coding first started back in high school when I took a coding class as an elective. I enjoyed the class a great deal but never really considered it being a career till a few months ago. I greatly enjoy all the possibilities that come with coding. Between coding for web development, applications, or gaming I feel there is nothing I can't do with the knowledge I have, and will be learning.

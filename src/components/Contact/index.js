@@ -11,7 +11,7 @@ const Content = () => {
           <h1 className="h1">William Chenausky</h1>
           <h2 className="h2">Email: <a href="mailto: williamchenausky@yahoo.com">williamchenausky@yahoo.com</a></h2>
           <h2 className="h2">Phone:<a href="tel:803-402-9771">(803)-402-9771</a></h2>
-          <h2 className="h2">Résumé: <a href="../../../public/assets/Docs/william-resume.pdf" download><i className="material-icons medium">cloud_download</i></a></h2>
+          <h2 className="h2">Resumé: <a href="../../../public/assets/Docs/william-resume.pdf" download><i className="material-icons medium">Resume</i></a></h2>
         </Col>
       </Row>
     </Container>

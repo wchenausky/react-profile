@@ -20,7 +20,6 @@ function App() {
               <Route
                 exact
                 path={[
-                  "/",
                   "/home",
                   "/react-profile/",
                   "/react-profile/home",

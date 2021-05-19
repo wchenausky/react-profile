@@ -1,6 +1,7 @@
 import React from 'react';
 import NavBar from './components/Navbar/index';
-
+import Home from './components/Home/index';
+import Background from './components/Background/index';
 
 
 function App() {
@@ -8,7 +9,8 @@ function App() {
     <div >
       
     <NavBar />
-
+    <Background />
+    <Home />
   
 
     </div>

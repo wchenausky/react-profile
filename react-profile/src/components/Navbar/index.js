@@ -8,7 +8,7 @@ const NavBar = () => {
   return(
     <>
     <Navbar bg="dark" variant="dark">
-      <Navbar.Brand href="#home">William Chenausky</Navbar.Brand>
+      <Navbar.Brand>William Chenausky</Navbar.Brand>
       <Nav className="mr-auto">
      <Nav.Link href="#home">William Chenausky</Nav.Link>
         <Nav.Link href="#home">Contact</Nav.Link>

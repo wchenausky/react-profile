@@ -22,16 +22,16 @@ function App() {
                 path={[
                   "/",
                   "/home",
-                  "/react_profile_np/",
-                  "/react_profile_np/home",
+                  "/react-profile/",
+                  "/react-profile/home",
                 ]}
               >
                 <Home />
               </Route>
-              <Route path={["/portfolio", "/react_profile_np/portfolio"]}>
+              <Route path={["/portfolio", "/react-profile/portfolio"]}>
                 <Portfolio />
               </Route>
-              <Route path={["/contact", "/react_profile_np/contact"]}>
+              <Route path={["/contact", "/react-profile/contact"]}>
                 <Contact />
               </Route>
             </>
